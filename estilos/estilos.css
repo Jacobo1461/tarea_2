@@ -1,0 +1,85 @@
+*{
+    padding: 2vh;
+}
+#cajaPrincipal{
+    margin: 0;
+    
+    padding: 5vh;
+    border: solid 5px green;
+    
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+#contenedor1{
+    margin: 2vh auto ;
+    border: solid 5px blue;
+    width: 30vh;
+    height: 80vh;
+
+}
+.cajas1{
+    display: flex;
+}
+.ca{
+    margin: 5px;
+    border: solid 5px red;
+    width: 30vh;
+    height: 10vh;
+}
+.cajas2{
+    display: flex;
+    flex-direction: column;
+}
+.co{
+    margin: 5px;
+    border: solid 5px red;
+    width: 20vh;
+    height: 5vh;
+}
+.cajas3{
+    display: flex;
+}
+.c{
+    margin: 5px;
+    border: solid 5px red;
+    width: 30vh;
+    height: 10vh;
+}
+
+#contenedor2{
+    margin: 2vh auto ;
+    border: solid 5px blue;
+    width: 30vh;
+    height: 80vh;
+
+}
+
+.rect{
+    margin: 15px;
+    border: solid 5px blueviolet;
+    width: 22vh;
+    height: 5vh;
+}
+#contenedor3{
+    margin: 2vh auto ;
+    border: solid 5px blue;
+    width: 30vh;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.cuadrado{
+    margin: 15px;
+    padding: auto;
+    border: solid 5px rgb(21, 150, 249);
+    width: 5vh;
+    height: 30vh;
+    height: 5vh;
+    position: relative;
+}
+
+
